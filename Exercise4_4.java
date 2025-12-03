@@ -19,3 +19,11 @@ public class Exercise4_4 {
         // Cevaplarinizi yorum olarak ekleyin.
     }
 }
+
+//1. Cevap:
+//Return eden bir metodu çağırıp sonucunu kullanmazsan Java hata vermez. Kod geçerlidir, en fazla IDE "method result is ignored" şeklinde uyarı verebilir.
+
+//2. Cevap:
+//Void bir metodu bir ifadenin içinde kullanırsan Java derleme hatası verir.
+//Hata: “void type not allowed here”
+//Çünkü void metotların döndürecek bir değeri yoktur.
